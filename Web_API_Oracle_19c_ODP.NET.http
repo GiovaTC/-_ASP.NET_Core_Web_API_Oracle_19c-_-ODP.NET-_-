@@ -1,0 +1,6 @@
+@Web_API_Oracle_19c_ODP.NET_HostAddress = http://localhost:5167
+
+GET {{Web_API_Oracle_19c_ODP.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

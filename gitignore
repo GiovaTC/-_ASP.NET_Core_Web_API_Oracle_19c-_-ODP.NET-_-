@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Usuario
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Paquetes
+packages/
+
+# Rider / VSCode opcional
+.idea/
+.vscode/
