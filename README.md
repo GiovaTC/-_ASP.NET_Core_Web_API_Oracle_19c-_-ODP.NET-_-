@@ -1,7 +1,9 @@
 # -_ASP.NET_Core_Web_API_Oracle_19c-_-ODP.NET-_- :.
 🧩 ASP.NET Core Web API + Oracle 19c (ODP.NET):
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/557727a2-52c6-4440-b447-8ee6b43d5a9d" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/557727a2-52c6-4440-b447-8ee6b43d5a9d" />    
+
+<img width="2550" height="1076" alt="image" src="https://github.com/user-attachments/assets/9c58b945-f0d2-4983-a98b-48e9ed63500f" />    
 
 ```
 
