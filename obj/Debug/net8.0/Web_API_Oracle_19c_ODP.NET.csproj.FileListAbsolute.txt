@@ -69,3 +69,15 @@ C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\obj\Debug\net8.0\refint\We
 C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\obj\Debug\net8.0\Web_API_Oracle_19c_ODP.NET.pdb
 C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\obj\Debug\net8.0\Web_API_Oracle_19c_ODP.NET.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\obj\Debug\net8.0\ref\Web_API_Oracle_19c_ODP.NET.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Documents\Web_API_Oracle_19c_ODP.NET\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
