@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_API_Oracle_19c_ODP.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fba135d7e83c4b0df34bd9be6a5eadffcdb1101")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_API_Oracle_19c_ODP.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_API_Oracle_19c_ODP.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
