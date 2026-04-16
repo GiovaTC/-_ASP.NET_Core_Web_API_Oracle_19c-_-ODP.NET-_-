@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Web_API_Oracle_19c_ODP.NET.Controllers.ProbabilidadController",
+    "Method": "Crear",
+    "RelativePath": "api/Probabilidad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "Web_API_Oracle_19c_ODP.NET.ProbabilidadEvento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Oracle_19c_ODP.NET.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Web_API_Oracle_19c_ODP.NET.WeatherForecast, Web_API_Oracle_19c_ODP.NET, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
