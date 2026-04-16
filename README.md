@@ -11,6 +11,8 @@
 
 <img width="2549" height="1079" alt="image" src="https://github.com/user-attachments/assets/ce76f9fa-cdc2-4299-a3eb-f4821b8678b3" />    
 
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/003939a5-2f00-4bd7-9c85-88ade81c9650" />    
+
 ```
 
 Solución completa, estructurada y lista para probar con Postman, utilizando ASP.NET Core Web API y ODP.NET para conexión con Oracle Database 19c.
